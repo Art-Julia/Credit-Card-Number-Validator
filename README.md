@@ -7,9 +7,9 @@
 На тестирование затрачено: 1  час
 
 В результате тестирования выявлены следующие дефекты:
-* [14ти значный номер карты не валидируется](https://github.com/Art-Julia/Credit-Card-Number-Validator/issues/3)
-* [15ти значный номер карты не валидируется](https://github.com/Art-Julia/Credit-Card-Number-Validator/issues/1)
-* [19ти значный номер карты не валидируется](https://github.com/Art-Julia/Credit-Card-Number-Validator/issues/2)
+* [14ти значные номера карт не валидируются](https://github.com/Art-Julia/Credit-Card-Number-Validator/issues/3)
+* [15ти значные номера карт не валидируются](https://github.com/Art-Julia/Credit-Card-Number-Validator/issues/1)
+* [19ти значные номера карт не валидируются](https://github.com/Art-Julia/Credit-Card-Number-Validator/issues/2)
 
 ## Описание процесса тестирования
 
